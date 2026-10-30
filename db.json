@@ -1,0 +1,167 @@
+{
+	"clients": [],
+	"messages": [],
+	"contact": {
+		"email": "hello@example.com",
+		"whatsappNumber": "201000000000"
+	},
+	"projects": [
+		{
+			"id": 1,
+			"title": "Dream Area",
+			"client": "Supablox",
+			"year": "2024",
+			"category": "Branding",
+			"slug": "dream-area",
+			"image": "https://framerusercontent.com/images/vsJieJ2kpNqYQqbNNRqwZCtQpc.webp",
+			"description": "A focused visual study exploring light, texture, color, and form."
+		},
+		{
+			"id": 2,
+			"title": "Nova Scene",
+			"client": "Supablox",
+			"year": "2022",
+			"category": "Web design",
+			"slug": "nova-scene",
+			"image": "https://framerusercontent.com/images/YDMkbVD6tcuBPzyC0XVl3OlCc.webp",
+			"description": "A focused visual study exploring light, texture, color, and form."
+		},
+		{
+			"id": 3,
+			"title": "Liquid",
+			"client": "Supablox",
+			"year": "2021",
+			"category": "Animation",
+			"slug": "liquid",
+			"image": "https://framerusercontent.com/images/IEa7bmeTUiE5TZstfmLq2YMRE.webp",
+			"description": "A focused visual study exploring light, texture, color, and form."
+		},
+		{
+			"id": 4,
+			"title": "Orange Blox",
+			"client": "Supablox",
+			"year": "2023",
+			"category": "UI",
+			"slug": "orange-blox",
+			"image": "https://framerusercontent.com/images/ycUhKuyY4ZEhmqlLgm7Z1iuVApc.webp",
+			"description": "A focused visual study exploring light, texture, color, and form."
+		},
+		{
+			"id": 5,
+			"title": "Arched Pink",
+			"client": "Supablox",
+			"year": "2019",
+			"category": "UX",
+			"slug": "arched-pink",
+			"image": "https://framerusercontent.com/images/uX6Axm5Q475cay9uQFjM0ad50ig.webp",
+			"description": "A focused visual study exploring light, texture, color, and form."
+		},
+		{
+			"id": 6,
+			"title": "Fluid Shapes",
+			"client": "Supablox",
+			"year": "2020",
+			"category": "Branding",
+			"slug": "fluid-shapes",
+			"image": "https://framerusercontent.com/images/uXUQu9TuWZ1ebR1tXVP8KY0gpw.webp",
+			"description": "A focused visual study exploring light, texture, color, and form."
+		}
+	],
+	"gallery": [
+	{ "id": 1, "image": "https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?auto=format&fit=crop&w=800&q=85", "alt": "Gallery image 1" },
+	{ "id": 2, "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=800&q=85", "alt": "Gallery image 2" },
+	{ "id": 3, "image": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&w=800&q=85", "alt": "Gallery image 3" },
+	{ "id": 4, "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=800&q=85", "alt": "Gallery image 4" },
+	{ "id": 5, "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=800&q=85", "alt": "Gallery image 5" },
+	{ "id": 6, "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=800&q=85", "alt": "Gallery image 6" },
+	{ "id": 7, "image": "https://images.unsplash.com/photo-1504707748692-419802cf939d?auto=format&fit=crop&w=800&q=85", "alt": "Gallery image 7" },
+	{ "id": 8, "image": "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=800&q=85", "alt": "Gallery image 8" }
+],
+
+	"blogs": [
+		{
+			"id": 1,
+			"featured": true,
+			"image": "/images/AvbcKI1lJe9DQAxd9cp9ERMpmrQ.avif",
+			"title": "Building a Photography Portfolio with Presence",
+			"excerpt": "A strong photography portfolio does more than collect images. It gives your point of view a clear shape and helps the right clients understand what you see.",
+			"author": {
+				"name": "Hreka",
+				"role": "Photographer & Visual Artist",
+				"avatar": "/images/about.webp"
+			},
+			"date": "Aug 14, 2024",
+			"isoDate": "2024-08-14",
+			"content": "<p>A strong photography portfolio does more than collect images. It gives your point of view a clear shape and helps the right clients understand what you see.</p><p>Choose work that feels connected by your way of seeing, not only by the subject. A clear edit makes the portfolio easier to remember and easier to trust.</p>"
+		},
+		{
+			"id": 2,
+			"image": "/images/2P7bB8uwsuqvnasZuwSMEzKDWb8.avif",
+			"title": "How to Prepare for a Brand Photoshoot",
+			"excerpt": "A practical guide to aligning your concept, shot list, location, and team before the camera comes out.",
+			"date": "Mar 15, 2022",
+			"isoDate": "2022-03-15",
+			"content": "<p>A successful brand photoshoot begins before the first frame. Start with a clear purpose, a focused reference board, and a shot list that supports the story.</p>"
+		},
+		{
+			"id": 3,
+			"image": "/images/jAvdkVwcxN6xtJDoAVnlmrTEjA.avif",
+			"title": "Finding the Right Light for a Portrait",
+			"excerpt": "Explore how direction, softness, and timing can change the feeling of a portrait before you change anything else.",
+			"date": "Apr 8, 2022",
+			"isoDate": "2022-04-08",
+			"content": "<p>Great portraits begin with attention. Direction, window light, and enough time for a subject to settle can create more honesty than complicated equipment.</p>"
+		},
+		{
+			"id": 4,
+			"image": "/images/lR2uF17C7oB3HnOxQe6JE2i19k.avif",
+			"title": "Why Visual Consistency Matters for Brands",
+			"excerpt": "Learn how a consistent image language helps a brand feel recognizable, considered, and trustworthy.",
+			"date": "Jun 12, 2024",
+			"isoDate": "2024-06-12",
+			"content": "<p>Visual consistency helps people recognize a brand before they read a word. Repeated choices in light, color, framing, and texture build that recognition.</p>"
+		},
+		{
+			"id": 5,
+			"image": "/images/project5.avif",
+			"title": "The Details That Make an Image Feel Real",
+			"excerpt": "A closer look at texture, gesture, imperfection, and the small decisions that give photographs their character.",
+			"date": "Jan 7, 2023",
+			"isoDate": "2023-01-07",
+			"content": "<p>The smallest details often carry the most feeling: a hand in motion, a worn surface, a pause between expressions. Look closely and let those details guide the frame.</p>"
+		}
+	],
+	"services": [
+		
+	],
+	"socials": [
+		{
+    "name": "Facebook",
+    "href": "https://www.facebook.com/",
+    "path": "M128,24A104,104,0,1,0,232,128,104.11,104.11,0,0,0,128,24Zm8,191.63V152h24a8,8,0,0,0,0-16H136V112a16,16,0,0,1,16-16h16a8,8,0,0,0,0-16H152a32,32,0,0,0-32,32v24H96a8,8,0,0,0,0,16h24v63.63a88,88,0,1,1,16,0Z"
+  },
+
+  {
+    "name": "Instagram",
+    "href": "https://instagram.com/frameblox",
+    "path": "M128,80a48,48,0,1,0,48,48A48.05,48.05,0,0,0,128,80Zm0,80a32,32,0,1,1,32-32A32,32,0,0,1,128,160ZM176,24H80A56.06,56.06,0,0,0,24,80v96a56.06,56.06,0,0,0,56,56h96a56.06,56.06,0,0,0,56-56V80A56.06,56.06,0,0,0,176,24Zm40,152a40,40,0,0,1-40,40H80a40,40,0,0,1-40-40V80A40,40,0,0,1,80,40h96a40,40,0,0,1,40,40ZM192,76a12,12,0,1,1-12-12A12,12,0,0,1,192,76Z"
+  },
+  {
+    "name": "X",
+    "href": "https://x.com/frameblox",
+    "path": "M247.39,68.94A8,8,0,0,0,240,64H209.57A48.66,48.66,0,0,0,168.1,40a46.91,46.91,0,0,0-33.75,13.7A47.9,47.9,0,0,0,120,88v6.09C79.74,83.47,46.81,50.72,46.46,50.37a8,8,0,0,0-13.65,4.92c-4.31,47.79,9.57,79.77,22,98.18a110.93,110.93,0,0,0,21.88,24.2c-15.23,17.53-39.21,26.74-39.47,26.84a8,8,0,0,0-3.85,11.93c.75,1.12,3.75,5.05,11.08,8.72C53.51,229.7,65.48,232,80,232c70.67,0,129.72-54.42,135.75-124.44l29.91-29.9A8,8,0,0,0,247.39,68.94Zm-45,29.41a8,8,0,0,0-2.32,5.14C196,166.58,143.28,216,80,216c-10.56,0-18-1.4-23.22-3.08,11.51-6.25,27.56-17,37.88-32.48A8,8,0,0,0,92,169.08c-.47-.27-43.91-26.34-44-96,16,13,45.25,33.17,78.67,38.79A8,8,0,0,0,136,104V88a32,32,0,0,1,9.6-22.92A30.94,30.94,0,0,1,167.9,56c12.66.16,24.49,7.88,29.44,19.21A8,8,0,0,0,204.67,80h16Z"
+  },
+  {
+    "name": "LinkedIn",
+    "href": "https://www.linkedin.com/",
+    "path": "M216,24H40A16,16,0,0,0,24,40V216a16,16,0,0,0,16,16H216a16,16,0,0,0,16-16V40A16,16,0,0,0,216,24Zm0,192H40V40H216V216ZM96,112v64a8,8,0,0,1-16,0V112a8,8,0,0,1,16,0Zm88,28v36a8,8,0,0,1-16,0V140a20,20,0,0,0-40,0v36a8,8,0,0,1-16,0V112a8,8,0,0,1,15.79-1.78A36,36,0,0,1,184,140ZM100,84A12,12,0,1,1,88,72,12,12,0,0,1,100,84Z"
+  },
+  {
+    "name": "YouTube",
+    "href": "https://www.youtube.com/@soltwagner",
+    "path": "M164.44,121.34l-48-32A8,8,0,0,0,104,96v64a8,8,0,0,0,12.44,6.66l48-32a8,8,0,0,0,0-13.32ZM120,145.05V111l25.58,17ZM234.33,69.52a24,24,0,0,0-14.49-16.4C185.56,39.88,131,40,128,40s-57.56-.12-91.84,13.12a24,24,0,0,0-14.49,16.4C19.08,79.5,16,97.74,16,128s3.08,48.5,5.67,58.48a24,24,0,0,0,14.49,16.41C69,215.56,120.4,216,127.34,216h1.32c6.94,0,58.37-.44,91.18-13.11a24,24,0,0,0,14.49-16.41c2.59-10,5.67-28.22,5.67-58.48S236.92,79.5,234.33,69.52Zm-15.49,113a8,8,0,0,1-4.77,5.49c-31.65,12.22-85.48,12-86,12H128c-.54,0-54.33.2-86-12a8,8,0,0,1-4.77-5.49C34.8,173.39,32,156.57,32,128s2.8-45.39,5.16-54.47A8,8,0,0,1,41.93,68c30.52-11.79,81.66-12,85.85-12h.27c.54,0,54.38-.18,86,12a8,8,0,0,1,4.77,5.49C221.2,82.61,224,99.43,224,128S221.2,173.39,218.84,182.47Z"
+		}
+	]
+
+}
+

@@ -1,0 +1,26 @@
+https://hamotech22.github.io/hreka/
+
+web3forms
+طريقة الاستخدام
+اولا نعمل تسجيل في موقع web3forms 
+بعدها نقوم بنسق ملف الكود form access key
+وبعدها نستخدمها في الملف بتاع الفورم بتاعي بالشكل التالي
+
+
+
+
+try {
+  await axios.post(
+    "https://api.web3forms.com/submit",
+    {
+      access_key: WEB3FORMS_KEY,
+      subject: `رسالة جديدة من ${name}`,
+      name,
+      email,
+      message,
+    },
+    { timeout: 8000 }
+  );
+} catch (mailErr) {
+  console.error("Email notification failed:", mailErr);
+}
